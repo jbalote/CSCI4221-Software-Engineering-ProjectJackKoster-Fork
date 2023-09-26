@@ -1,3 +1,5 @@
+Some changes
+
 # CSCI4221-Software-Engineering-Project
 Jonathan Bennett Jack Koster Vontresa Ball = Github ID: Vontresa Jalen Pugh TreyShawn Ricks = Github ID: Tr3y777
 
